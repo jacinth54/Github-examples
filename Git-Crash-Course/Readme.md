@@ -119,8 +119,21 @@ git push -u origin dev
 ```
 
 ## Remotes
+
+We can add remotes but mostly will create new remotes when making a branch upstream
+
+```sh
+git remote add ...
+git branch -u origin new-feature
+```
+
 ## Stashing
 ## Merging
+
+```sh
+git checkout branch-name
+git merge main
+```
 
 ## Add
 

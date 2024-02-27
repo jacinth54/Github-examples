@@ -128,6 +128,18 @@ git branch -u origin new-feature
 ```
 
 ## Stashing
+
+To use in local development
+can stash changes for later
+
+```sh
+git stash list
+git stash
+git stash save my-name
+git stash pop
+git stash apply
+```
+
 ## Merging
 
 ```sh

@@ -107,6 +107,17 @@ Checkout the branch
 git checkout branch-name
 ```
 
+To push data to the branch need to set up a remote dev
+Long form 
+```sh
+git push --set-upstream origin dev
+```
+
+Short form
+```sh
+git push -u origin dev
+```
+
 ## Remotes
 ## Stashing
 ## Merging

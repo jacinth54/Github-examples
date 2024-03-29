@@ -3,7 +3,7 @@ name: Secret Issue
 about: submits a secret
 title: ''
 labels: secret
-assignees:''
+assignees: ''
 ---
 
 ## Welcome to the secret submissions 

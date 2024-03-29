@@ -1,6 +1,6 @@
 ---
-name: Secret Issue
-about: submits a secret
+name: secret stuff
+about: Create a secret to help us improve
 title: ''
 labels: secret
 assignees: ''
